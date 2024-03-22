@@ -6,6 +6,8 @@ Volltreffer Sports, an Indian sports equipment company, has recently launched it
 ### Project Importance
 Understanding consumer preferences and market dynamics is vital for Volltreffer Sports to thrive in India's sports equipment goods sector. With a dataset of 10,000 responses, this project enables data-driven decision-making, guiding tailored marketing strategies and product development for the Indian market. Analyzing competitors and consumer preferences fosters a competitive advantage, allowing Volltreffer Sports to differentiate its offerings and meet the unique needs of Indian consumers effectively. By understanding demographics, preferences, and purchase behavior, targeted marketing campaigns can resonate with the Indian audience, establishing a robust brand presence. Additionally, insights into consumer preferences facilitate product enhancement, leading to the creation of innovative, high-quality products tailored to Indian sports enthusiasts.
 
+#### Dashboard Link - https://www.novypro.com/project/market-analysis-and-consumer-insights-in-the-indian-sports-equipment-goods-sector
+
 ### KPIs for this project
 #### 1.Demographic Insights
 Understanding the demographics of sports equipment goods consumers in India is crucial for targeting marketing efforts effectively. This KPI involves gathering data on gender, age, income level, geographic location, and other relevant demographics to gain insights into the target audience. By understanding the demographic composition of the market, Volltreffer Sports can tailor its marketing strategies to resonate with specific consumer segments.
