@@ -1,5 +1,6 @@
 # Market Analysis and Consumer Insights in the Indian Sports Equipment Goods Sector
 
+Dashboard Link: https://project.novypro.com/dAok7Z
 ### Project Overview
 Volltreffer Sports, an Indian sports equipment company, has recently launched its new product category in the domestic market. The company conducted a comprehensive survey across 10 major cities in India and received feedback from 10,000 respondents. The survey focused on understanding consumer behavior regarding sports equipment goods, including purchasing habits, preferences, pricing.
 
